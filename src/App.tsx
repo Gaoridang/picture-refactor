@@ -1,5 +1,11 @@
+import FormContainer from "./components/FormContainer";
+
 function App() {
-  return <></>;
+  return (
+    <>
+      <FormContainer />
+    </>
+  );
 }
 
 export default App;
